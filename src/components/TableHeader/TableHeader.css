@@ -1,0 +1,7 @@
+.bg-primary{
+    background: #fafafa;
+  }
+p.text-header{
+    color: rgba(0,0,0,.85);
+    font-weight: 500;
+}
